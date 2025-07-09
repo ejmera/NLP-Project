@@ -8,7 +8,7 @@ In this project, customer reviews are scraped from an e-commerce website and a N
 
 ### 1. Extracting and Saving Review Data
 
-**`1_yorum_verisi_cekme.ipynb`**  
+**`dataCode.ipynb`**  
 Product reviews are scraped from an e-commerce site using web scraping techniques. Reviews for each product are saved in separate `.csv` files.
 
 📌 Tools used: `Selenium`, `BeautifulSoup`, `pandas`
