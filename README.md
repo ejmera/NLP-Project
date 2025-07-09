@@ -11,6 +11,13 @@ In this project, customer reviews are scraped from an e-commerce website and a N
 **`dataCode.ipynb`**  
 Product reviews are scraped from an e-commerce site using web scraping techniques. Reviews for each product are saved in separate `.csv` files.
 
+❗ <u>NOT : If this code doesn't work, pay attention to the following points.</u>
+
+### 1.1 Check your url
+urlP = "WEB URL"   #  <---------------
+
+### 1.2 Check your date e-commerce website stile
+
 📌 Tools used: `Selenium`, `BeautifulSoup`, `pandas`
 
 ---
